@@ -1,0 +1,5 @@
+VSCode-darwin-arm64/
+vscode/
+*.dmg
+*.zip
+.DS_Store

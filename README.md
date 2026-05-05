@@ -8,9 +8,9 @@ Welcome to **RECODE IDE** – a highly customized, fast, and beautiful code edit
 - **Optimized Core**: Telemetry disabled, clean UI, and fast startup times.
 
 ## Installation
-1. Download the `.app` or `.zip` release.
-2. Drag `RECODE IDE.app` to your Applications folder.
-3. Open it once to initialize the data folders, then close it.
+1. Go to the **Releases** section of this repository and download the `RECODE IDE <version>.dmg` file.
+2. Open the `.dmg` file and drag `RECODE IDE.app` into your Applications folder.
+3. Open the IDE once to initialize the data folders, then close it.
 4. Copy the `settings.json` file from this repository to your user settings directory:
    - **macOS**: `~/Library/Application Support/RECODE IDE/User/settings.json`
 5. Re-open RECODE IDE and enjoy!
