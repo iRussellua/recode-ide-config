@@ -4,7 +4,7 @@ Welcome to **RECODE IDE** – a highly customized, fast, and beautiful code edit
 
 ## Features
 - **Kilo Code Integration**: Seamless AI pair programming built directly into the secondary sidebar.
-- **Catppuccin Mocha Aesthetics**: A gorgeous dark theme integrated out of the box with custom translucent UI elements.
+- **Catppuccin Mocha Aesthetics**: A gorgeous dark theme integrated out of the box.
 - **Optimized Core**: Telemetry disabled, clean UI, and fast startup times.
 
 ## Installation
